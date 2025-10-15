@@ -1,0 +1,19 @@
+# Angular / Node
+node_modules/
+dist/
+tmp/
+.coverage/
+.angular/
+.npm/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# Logs / OS junk
+*.log
+.DS_Store
+Thumbs.db
+
+# Env (no secrets here, but good habit)
+*.env
