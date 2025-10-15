@@ -7,5 +7,5 @@ npm i
 npm start
 
 Edit `src/environments/environment.ts` for your API base:
-- apiBaseUrl: http://localhost:5000/api
-- imageBaseUrl: http://localhost:5000
+- apiBaseUrl: http://localhost:5208/api
+- imageBaseUrl: http://localhost:5208
