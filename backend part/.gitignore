@@ -1,0 +1,21 @@
+﻿# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Build outputs
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Local settings (keep a .example if needed)
+appsettings.Development.json
+appsettings.Local.json
